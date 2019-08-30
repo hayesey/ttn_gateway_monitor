@@ -1,0 +1,8 @@
+# list of gateways EUIs, either just the EUI (8 bytes hex) or with 'eui-' before the EUI as it is written on the TTN Console
+gw_euis = [
+    '',
+    '',
+    ]
+# ID & check token from Nodeping check
+nodeping_id = ''
+nodeping_token = ''
